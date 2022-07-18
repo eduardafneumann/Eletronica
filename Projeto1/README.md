@@ -9,14 +9,13 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ## Escolha dos componentes:
 | Quantidade | Componentes              | Valor R$                |
 |------------|--------------------------|-------------------------|
-| 5x         | DIODO  1N4007          | [R$ 0,20  x  4 = R$0,80]|
+| 4          | DIODO  1N4007          | [R$ 0,20  x  4 = R$0,80]|
 | 1          | CAPACITOR 680UF X 50V  | [R$ 5,00]|
 | 1          | Led Vermelho 5mm       | [R$ 0,50]|
-| 2          | Resistor 1k ohm        | [R$ 0,07 TROCAR]|
-| 1          | Resistor 2k ohm        | [R$ 0,07 TROCAR]|
-| 1          | Resistor 4k ohm        | [R$ 0,07 TROCAR]|
+| 2          | Resistor 2.2k ohm      | [R$ 0,07  x  2 = R$0,14]|
+| 1          | Resistor 4.3k ohm      | [R$ 0,07]|
 | 1          | Potenciômetro  10k ohm | [R$ 7,00]|
-| 1          | Diodo Zener (13v)      | [R$ 0,50]|
+| 1          | Diodo Zener 13V        | [R$ 0,50]|
 | 1          | Transistor NPN         | [R$ 0,45]|
 | **Total**  |                        |  R$ 28,14|
 
@@ -40,16 +39,13 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 <img src="./imagens/circuito.png">
 
 ## Cálculo do capacitor TROCAR
-<img src="./Imagens-Simulação/Calculos.png">
+<img src="./imagens/circuito.png">
 
 ## Link do circuito no Falstad: 
 https://tinyurl.com/2clwz5w6
 
 ## Imagem esquemático da PCB TROCAR
-<img src="./Imagens-Simulação/Esquemático.png">
-
-## Imagem PCB no programa Proteus TROCAR
-<img src="./Imagens-Simulação/pcb.png">
+<img src="./imagens/circuito.png">
 
 ## Vídeo no Youtube TROCAR
 https://youtu.be/0L9eRKaqJ-0
@@ -61,8 +57,3 @@ João Pedro Soares Azevedo Calixto [(Calixto)]
 Eduarda Neumasn Firstuadmanm [(Duda)]
 
 Lucas de Souza Brandão [(Bombril)]
-
-## Agradecimentos
-
-Agradecemos ao excelentíssimo professor Eduardo do Valle Simões, o Rei.
-
