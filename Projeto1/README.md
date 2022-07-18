@@ -37,7 +37,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 * **Transistor**: utilizado para amplificar a corrente que passa para as saídas da fonte.
 
 ## Imagem do circuito TROCAR
-<img src="./Imagens-Simulação/Simulação.png">
+<img src="./imagens/circuito.png">
 
 ## Cálculo do capacitor TROCAR
 <img src="./Imagens-Simulação/Calculos.png">
