@@ -42,8 +42,8 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ## Cálculo do capacitor TROCAR
 <img src="./Imagens-Simulação/Calculos.png">
 
-## Link do circuito no Falstad: TROCAR
-http://tinyurl.com/yceae9x5
+## Link do circuito no Falstad: 
+https://tinyurl.com/2clwz5w6
 
 ## Imagem esquemático da PCB TROCAR
 <img src="./Imagens-Simulação/Esquemático.png">
