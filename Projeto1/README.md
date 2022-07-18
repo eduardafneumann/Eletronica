@@ -35,17 +35,18 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 
 * **Transistor**: utilizado para amplificar a corrente que passa para as saídas da fonte.
 
-## Imagem do circuito TROCAR
+## Imagem do circuito 
 <img src="./imagens/circuito.png">
 
-## Cálculo do capacitor TROCAR
-<img src="./imagens/circuito.png">
+## Cálculo do capacitor 
+<img src="./imagens/um.png">
+<img src="./imagens/dois.png">
 
 ## Link do circuito no Falstad: 
 https://tinyurl.com/2clwz5w6
 
-## Imagem esquemático da PCB TROCAR
-<img src="./imagens/circuito.png">
+## Imagem esquemático da PCB 
+<img src="./imagens/eagle.png">
 
 ## Vídeo no Youtube TROCAR
 https://youtu.be/0L9eRKaqJ-0
