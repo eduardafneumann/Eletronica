@@ -17,6 +17,44 @@ Sensor de Movimento, Buzzer, LED, resistor, jumpers e arduino.
 ## Vídeo no Youtube TROCAR
 https://youtu.be/0L9eRKaqJ-0
 
+## Código
+
+#define pinBuzzer  8
+#define pinSensorPIR  7
+#define pinLed  9
+bool valorSensorPIR;
+int frequencia = 1000;
+int tempoBuzzerLigado = 2000;
+
+void setup() {
+  pinMode(pinBuzzer, OUTPUT);
+  pinMode(pinSensorPIR, INPUT);
+  pinMode(pinLed, OUTPUT);
+  Serial.begin(9600);
+}
+
+
+void loop() {
+  valorSensorPIR = digitalRead(pinSensorPIR);
+  if (valorSensorPIR) {
+    ligarAlarme();
+  } else {
+    desligarAlarme();
+  }
+}
+
+void ligarAlarme() {
+  digitalWrite(pinLed, HIGH);
+  tone(pinBuzzer, frequencia);
+  delay(tempoBuzzerLigado);
+  desligarAlarme();
+}
+
+void desligarAlarme() {
+  digitalWrite(pinLed, LOW);
+  noTone(pinBuzzer);
+}
+
 
 ## Alunos:
 João Pedro Soares Azevedo Calixto [(Calixto)]
