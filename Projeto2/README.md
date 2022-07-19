@@ -2,7 +2,7 @@
 
 ## Instruções:
 
-COnstrução de um alarme, que apita ao detectar movimento e pode ser posicionado perto de portas a fins de segurança.
+Construção de um alarme, que apita ao detectar movimento e pode ser posicionado perto de portas a fins de segurança.
 
 ## Os componentes
 
@@ -20,6 +20,6 @@ https://youtu.be/0L9eRKaqJ-0
 ## Alunos:
 João Pedro Soares Azevedo Calixto [(Calixto)]
 
-Eduarda Neumasn Firstuadmanm [(Duda)]
+Eduarda Fritzen Neumann [(Duda)]
 
 Lucas de Souza Brandão [(Bombril)]
