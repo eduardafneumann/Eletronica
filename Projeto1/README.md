@@ -48,6 +48,9 @@ https://tinyurl.com/2clwz5w6
 ## Imagem esquemático da PCB 
 <img src="./imagens/eagle.png">
 
+## Imagem da fonte na ProtoBoard 
+<img src="./imagens/fonte.png">
+
 ## Vídeo no Youtube TROCAR
 https://youtu.be/0L9eRKaqJ-0
 
