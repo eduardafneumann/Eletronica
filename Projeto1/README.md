@@ -58,6 +58,6 @@ https://youtu.be/0L9eRKaqJ-0
 ## Alunos:
 João Pedro Soares Azevedo Calixto [(Calixto)]
 
-Eduarda Neumasn Firstuadmanm [(Duda)]
+Eduarda Fritzen Neumann [(Duda)]
 
 Lucas de Souza Brandão [(Bombril)]
