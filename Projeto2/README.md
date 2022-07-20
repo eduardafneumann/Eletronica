@@ -14,8 +14,8 @@ Sensor de Movimento, Buzzer, LED, resistor, jumpers e arduino.
 ## Imagem do circuito montado 
 <img src="./imagens/foto.png">
 
-## Vídeo no Youtube TROCAR
-https://youtu.be/0L9eRKaqJ-0
+## Vídeo no Youtube 
+https://youtube.com/shorts/yVa9U3Thy9Y?feature=share
 
 ## Alunos:
 João Pedro Soares Azevedo Calixto [(Calixto)]
