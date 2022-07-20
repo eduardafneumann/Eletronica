@@ -1,18 +1,23 @@
+//valores das portas no arduino
 #define pinBuzzer  8
 #define pinSensorPIR  7
 #define pinLed  9
+
+//variavel auxiliar
 bool valorSensorPIR;
+
+//configuracoes escolhidas para tempo que o alarme toca e a frequencia do som emitido
 int frequencia = 1000;
 int tempoBuzzerLigado = 2000;
 
+//configurando as portas do arduino
 void setup() {
   pinMode(pinBuzzer, OUTPUT);
   pinMode(pinSensorPIR, INPUT);
   pinMode(pinLed, OUTPUT);
-  Serial.begin(9600);
 }
 
-
+//le o sinal do sensor e liga ou desliga o alarme a partir disso
 void loop() {
   valorSensorPIR = digitalRead(pinSensorPIR);
   if (valorSensorPIR) {
@@ -22,6 +27,7 @@ void loop() {
   }
 }
 
+//liga o alarme com a frequencia e tempo de duracao escolhidos
 void ligarAlarme() {
   digitalWrite(pinLed, HIGH);
   tone(pinBuzzer, frequencia);
@@ -29,6 +35,7 @@ void ligarAlarme() {
   desligarAlarme();
 }
 
+//desliga o alarme
 void desligarAlarme() {
   digitalWrite(pinLed, LOW);
   noTone(pinBuzzer);
